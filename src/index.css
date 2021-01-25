@@ -103,3 +103,17 @@
   border-radius: 8px;
   cursor: pointer;
 }
+
+/* page not found styles */
+.page-not-found {
+  text-align: center;
+}
+.page-not-found .PNFImage {
+  height: 300px;
+  width: 300px;
+  margin: 20px 0px 100px 0px;
+}
+.page-not-found a {
+  color: #f1356d;
+  text-decoration: none;
+}

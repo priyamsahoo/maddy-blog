@@ -13,18 +13,6 @@
       "id": 2
     },
     {
-      "title": "123",
-      "body": "asdasdasdsadasdsa",
-      "author": "yoshi",
-      "id": 3
-    },
-    {
-      "title": "asd",
-      "body": "aa",
-      "author": "yoshi",
-      "id": 4
-    },
-    {
       "title": "Done the basics",
       "body": "Hey man!!\nThis is to tell that I have completed all the lessons of this tutorial till 20th of January 2021.\n\nCheers!",
       "author": "yoshi",
@@ -41,6 +29,12 @@
       "body": "Ninja",
       "author": "yoshi",
       "id": 8
+    },
+    {
+      "title": "Completed the course",
+      "body": "Done with my first react application.",
+      "author": "mario",
+      "id": 9
     }
   ]
 }
